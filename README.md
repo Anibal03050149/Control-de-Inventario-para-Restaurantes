@@ -21,7 +21,7 @@ Finalmente, la trazabilidad de cada movimiento (entradas, salidas y ajustes) for
 - [Requerimientos Técnicos](#requerimientos-técnicos)
 - [Instalación del Ambiente](#instalación-del-ambiente)
 - [Configuración del Sistema](#configuración-del-sistema)
-- [Manual del Usuario Final](#manual-de-usuario)
+- [Manual del Usuario Final](#manual-del-usuario-final)
 - [Manual del Administrador](#manual-del-administrador)
 - [Contribución al Proyecto](#contribución-al-proyecto)
 - [RoadMap](#roadmap)
@@ -248,7 +248,7 @@ git push origin feature/nueva-funcionalidad
 8. Versiones aprobadas pasan a GA (General Availability)
 
 
-#ROADMAP
+# ROADMAP
 
 ## PROXIMAS FUNCIONES
 
