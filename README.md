@@ -1,3 +1,32 @@
+![GESTION DE INVENTARIO PARA RESTAURANTES (Eficiencia operativa)](https://facilpos.co/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-19-22.24.20-A-vibrant-modern-restaurant-interior-with-staff-and-customers-interacting-around-a-sleek-point-of-sale-POS-system.-A-restaurant-cashier-behind-a-co-1024x585.webp)
+
+Un software de control de inventarios en un restaurante es una de las herramientas que más impacto tiene en la eficiencia operativa, porque automatiza tareas críticas y reduce errores humanos. Su aporte puede dividirse en varias áreas clave:
+
+Un software de control de inventarios en un restaurante mejora la eficiencia operativa al proporcionar una visibilidad clara y en tiempo real de los insumos disponibles. Esto permite evitar desabastos inesperados, compras innecesarias y pérdidas económicas. Al automatizar los registros de entradas y salidas, el negocio reduce errores humanos y acelera la gestión diaria, eliminando procesos manuales que son lentos y propensos a fallas.
+
+Además, el sistema descuenta automáticamente los ingredientes utilizados en cada platillo vendido, lo que facilita llevar un control preciso del consumo y detectar desviaciones, robos o desperdicios. Las alertas inteligentes también ayudan a identificar productos agotados, próximos a caducar o con baja rotación, lo que contribuye a planear compras de forma más eficiente y a reducir pérdidas por merma.
+
+El software genera reportes que permiten analizar tendencias, costos y niveles de consumo, apoyando la toma de decisiones informada en áreas como compras, producción y control financiero. Con esta información, el restaurante puede mantener la calidad del servicio, asegurar la disponibilidad de los platillos y optimizar su operación interna.
+
+Finalmente, la trazabilidad de cada movimiento (entradas, salidas y ajustes) fortalece la transparencia y la administración del negocio, creando una base sólida para su crecimiento y la profesionalización de sus procesos.
+
+
+#### Para la creación y gestión de nuestro software se cuenta con la siguiente información:
+
+
+## Tabla de Contenidos
+
+- [Resumen Ejecutivo](#resumen-ejecutivo)
+- [Arquitectura del Sistema](#arquitectura-del-sistema)
+- [Requerimientos Técnicos](#requerimientos-técnicos)
+- [Instalación del Ambiente](#instalación-del-ambiente)
+- [Implementación en Producción](#implementación-de-producción)
+- [Configuración del Sistema](#configuración-del-sistema)
+- [Manual del Usuario Final](#manual-de-usuario)
+- [Manual del Administrador](#manual-del-administrador)
+- [Contribución al Proyecto](#contribución-al-proyecto)
+- [RoadMap](#roadMap)
+
 # RESUMEN EJECUTIVO
 
 ## SISTEMA DE GESTION DE INVENTARIO PARA RESTAURANTE
@@ -54,21 +83,6 @@ Implementación de un sistema de control de ventas e inventario integrado, autom
 
 Este sistema está diseñado para mejorar la productividad, precisión y seguridad en la operación del restaurante, integrando todas las áreas en una única solución tecnológica.
 
-#### Para la creación y gestión de nuestro software se cuenta con la siguiente información:
-
-
-## Tabla de Contenidos
-
-- [Resumen Ejecutivo](#resumen-ejecutivo)
-- [Arquitectura del Sistema](#arquitectura-del-sistema)
-- [Requerimientos Técnicos](#requerimientos-técnicos)
-- [Instalación del Ambiente](#instalación-del-ambiente)
-- [Implementación en Producción](#implementación-de-producción)
-- [Configuración del Sistema](#configuración-del-sistema)
-- [Manual del Usuario Final](#manual-de-usuario)
-- [Manual del Administrador](#manual-del-administrador)
-- [Contribución al Proyecto](#contribución-al-proyecto)
-- [RoadMap](#roadMap)
 
 # REQUERIMIENTOS TÉCNICOS
 
