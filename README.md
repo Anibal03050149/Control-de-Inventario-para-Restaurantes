@@ -20,12 +20,11 @@ Finalmente, la trazabilidad de cada movimiento (entradas, salidas y ajustes) for
 - [Arquitectura del Sistema](#arquitectura-del-sistema)
 - [Requerimientos Técnicos](#requerimientos-técnicos)
 - [Instalación del Ambiente](#instalación-del-ambiente)
-- [Implementación en Producción](#implementación-de-producción)
 - [Configuración del Sistema](#configuración-del-sistema)
 - [Manual del Usuario Final](#manual-de-usuario)
 - [Manual del Administrador](#manual-del-administrador)
 - [Contribución al Proyecto](#contribución-al-proyecto)
-- [RoadMap](#roadMap)
+- [RoadMap](#roadmap)
 
 # RESUMEN EJECUTIVO
 
@@ -82,6 +81,19 @@ Implementación de un sistema de control de ventas e inventario integrado, autom
 * Proveer una plataforma segura y confiable para la gestión diaria del restaurante.
 
 Este sistema está diseñado para mejorar la productividad, precisión y seguridad en la operación del restaurante, integrando todas las áreas en una única solución tecnológica.
+
+# ARQUITECTURA DEL SISTEMA
+
+   * Frontend:
+            - HTML - CSS - JS - Bootstrap - Tablet UI. 
+   * Backend API: 
+            - Java 17 – Spring Boot – Maven.              
+            - Control de inventario, ventas y reportes.
+   * Base de Datos: 
+            - SQL Server, tablas: Insumos, Platillos, Entradas, Salidas, Historial, Usuarios, Roles.
+   * Servidor de aplicación: Spring Boot / Tomcat.
+   * BD: MySQL local o en la nube (Railway, AWS RDS, ClearDB).
+   * CI/CD: TravisCI / GitHub Actions.
 
 
 # REQUERIMIENTOS TÉCNICOS
